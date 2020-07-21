@@ -16,9 +16,11 @@
     "paths": {
       "*": ["./*", "node_modules/*"],
       "@tests": [ "tests/*" ],
-      "@components/*": [ "src/components/*" ],
-      "constants/*": [ "src/constants/*" ],
-      "@assets/*": [ "assets/*" ]
+      "@components/*": [ "./src/components/*" ],
+      "@constants/*": [ "./src/constants/*" ],
+      "@assets/*": [ "./assets/*" ],
+      "@src/*": ["./src/*"],
+      "@services/*": ["./src/services/*"],
     },
   },
   "exclude": [
