@@ -6,8 +6,8 @@ Using this Pre-prepared repository with predefined configuration you can head st
 
  1. Newest React Native version of the time (0.63.1) ✅
  2. Direct Typescript ✅
- 3. Navigation service (to handle navigations without passing props using react navigation 5) ❌
- 4. socket.io service (to handle socket from everywhere in the app + node backend sample) ❌
+ 3. Navigation service (to handle navigations without passing props using react navigation 5) ✅
+ 4. socket.io service (to handle socket from everywhere in the app✅ + node backend sample ❌) 
  5. built in Error Handler (using react-native-exception-handler) ❌
  6. chrome v8 engine ❌
  7. security enhancing procedures to prevent your app to be hacked (  proGuard, jail-monkey, storing data offline in realm database, ...) ❌
